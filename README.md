@@ -7,7 +7,7 @@ This is the README file I created for the demo purpose of learning GitHub!!!
 
 This is a line added in VS code in local machine.
 
-##SubHeader
+## SubHeader
 
 This is a line for new branch
 
